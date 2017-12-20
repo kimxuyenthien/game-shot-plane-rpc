@@ -1,0 +1,152 @@
+
+text-images.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+air-fight-game
+  rotate: false
+  xy: 1, 134
+  size: 256, 91
+  orig: 256, 91
+  offset: 0, 0
+  index: -1
+create-room
+  rotate: false
+  xy: 1, 83
+  size: 247, 49
+  orig: 247, 49
+  offset: 0, 0
+  index: -1
+list-member
+  rotate: false
+  xy: 259, 187
+  size: 227, 38
+  orig: 227, 38
+  offset: 0, 0
+  index: -1
+guide-game
+  rotate: false
+  xy: 1, 42
+  size: 218, 39
+  orig: 218, 39
+  offset: 0, 0
+  index: -1
+join-room
+  rotate: false
+  xy: 259, 145
+  size: 196, 40
+  orig: 196, 40
+  offset: 0, 0
+  index: -1
+exit-game
+  rotate: false
+  xy: 488, 187
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+you-win
+  rotate: false
+  xy: 1, 1
+  size: 177, 39
+  orig: 177, 39
+  offset: 0, 0
+  index: -1
+you-lose
+  rotate: false
+  xy: 457, 150
+  size: 180, 35
+  orig: 180, 35
+  offset: 0, 0
+  index: -1
+protect
+  rotate: false
+  xy: 675, 190
+  size: 134, 35
+  orig: 134, 35
+  offset: 0, 0
+  index: -1
+accept
+  rotate: false
+  xy: 811, 180
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+cancel
+  rotate: false
+  xy: 259, 102
+  size: 120, 41
+  orig: 120, 41
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 250, 63
+  size: 119, 37
+  orig: 119, 37
+  offset: 0, 0
+  index: -1
+reject
+  rotate: false
+  xy: 457, 105
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+about
+  rotate: false
+  xy: 675, 148
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+fight
+  rotate: false
+  xy: 789, 135
+  size: 103, 43
+  orig: 103, 43
+  offset: 0, 0
+  index: -1
+scan
+  rotate: false
+  xy: 576, 111
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+join
+  rotate: false
+  xy: 667, 113
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 943, 187
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 180, 6
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 381, 111
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 894, 147
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

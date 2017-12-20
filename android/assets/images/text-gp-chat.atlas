@@ -1,0 +1,151 @@
+text-gp-chat.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 141, 89
+  size: 23, 26
+  orig: 30, 31
+  offset: 3, 2
+  index: -1
+2
+  rotate: false
+  xy: 113, 89
+  size: 26, 26
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+3
+  rotate: false
+  xy: 166, 89
+  size: 23, 24
+  orig: 31, 34
+  offset: 4, 5
+  index: -1
+about
+  rotate: false
+  xy: 590, 70
+  size: 106, 32
+  orig: 112, 40
+  offset: 3, 4
+  index: -1
+accept
+  rotate: false
+  xy: 891, 2
+  size: 121, 39
+  orig: 130, 45
+  offset: 4, 3
+  index: -1
+air-fight-game
+  rotate: false
+  xy: 2, 2
+  size: 245, 85
+  orig: 256, 91
+  offset: 5, 3
+  index: -1
+cancel
+  rotate: false
+  xy: 249, 70
+  size: 112, 31
+  orig: 120, 41
+  offset: 4, 5
+  index: -1
+create-room
+  rotate: false
+  xy: 249, 2
+  size: 239, 31
+  orig: 247, 49
+  offset: 4, 9
+  index: -1
+exit-game
+  rotate: false
+  xy: 710, 2
+  size: 179, 33
+  orig: 185, 38
+  offset: 3, 2
+  index: -1
+fight
+  rotate: false
+  xy: 363, 70
+  size: 87, 40
+  orig: 103, 43
+  offset: 7, 2
+  index: -1
+guide-game
+  rotate: false
+  xy: 249, 35
+  size: 210, 33
+  orig: 218, 39
+  offset: 4, 3
+  index: -1
+join-room
+  rotate: false
+  xy: 461, 37
+  size: 186, 30
+  orig: 196, 40
+  offset: 3, 5
+  index: -1
+join
+  rotate: true
+  xy: 818, 37
+  size: 74, 30
+  orig: 82, 33
+  offset: 4, 1
+  index: -1
+list-member
+  rotate: false
+  xy: 490, 2
+  size: 218, 33
+  orig: 227, 38
+  offset: 4, 3
+  index: -1
+ok
+  rotate: true
+  xy: 850, 37
+  size: 47, 31
+  orig: 57, 38
+  offset: 5, 4
+  index: -1
+power
+  rotate: false
+  xy: 2, 89
+  size: 109, 27
+  orig: 119, 37
+  offset: 5, 5
+  index: -1
+protect
+  rotate: false
+  xy: 461, 69
+  size: 127, 28
+  orig: 134, 35
+  offset: 4, 4
+  index: -1
+reject
+  rotate: false
+  xy: 883, 43
+  size: 106, 40
+  orig: 117, 43
+  offset: 5, 2
+  index: -1
+scan
+  rotate: false
+  xy: 698, 70
+  size: 83, 28
+  orig: 89, 37
+  offset: 3, 5
+  index: -1
+you-lost
+  rotate: false
+  xy: 850, 86
+  size: 172, 28
+  orig: 180, 35
+  offset: 4, 4
+  index: -1
+you-win
+  rotate: false
+  xy: 649, 37
+  size: 167, 31
+  orig: 177, 39
+  offset: 5, 4
+  index: -1

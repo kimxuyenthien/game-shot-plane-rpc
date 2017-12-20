@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="a2" tilewidth="64" tileheight="64">
+  <image source="image-background/a2.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="a0 (copy)" tilewidth="64" tileheight="64">
+  <image source="image-background/a0.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="3" name="m80 (another copy)" tilewidth="60" tileheight="60">
+  <image source="image-background/m80.png" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="4" name="m97" tilewidth="50" tileheight="50">
+  <image source="image-background/m97.png" width="50" height="50"/>
+ </tileset>
+ <tileset firstgid="5" name="m75" tilewidth="68" tileheight="62">
+  <image source="image-background/m75.png" width="68" height="62"/>
+ </tileset>
+ <tileset firstgid="6" name="a192" tilewidth="84" tileheight="96">
+  <image source="image-background/a192.png" width="84" height="96"/>
+ </tileset>
+ <tileset firstgid="7" name="m5 (another copy)" tilewidth="208" tileheight="120">
+  <image source="image-background/m5.png" width="208" height="120"/>
+ </tileset>
+ <layer name="Tile Layer 3" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAMCXARkAAAE=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHj+4dej6Hgqqmqqqqqqj56eyQMgQ==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="40" height="40">
+  <object gid="4" x="408" y="811"/>
+  <object gid="4" x="808" y="864"/>
+  <object gid="4" x="903" y="2071"/>
+  <object gid="4" x="2161" y="2052"/>
+  <object gid="4" x="1761" y="506"/>
+ </objectgroup>
+ <objectgroup name="Object Layer 2" width="40" height="40"/>
+ <layer name="Tile Layer 3" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmMEKwCAMQ734/7+802DsMK2mSZh94M2msRYVW/sXHRy7o5eplaGJ1roHUlMFO3e0fjPzlP2X0Q+zeZHzVLj7U6OqT+1LsYp77zj7U9wlUU56731puu3T2w/LXyRPb7w3024ex/oh4ooxz7458bxD4n6nOXtDED2f2aD/A9Cw6sdYm7u/FVR/MFHKX8HiAliGAV8=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 3" width="40" height="40"/>
+ <layer name="Tile Layer 4" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEKACAIRdEW+/9PjraWljJ75T3gKmqQloJI5pSnOuXxzoV7Mr9j5t4Br71ygg2hxiahJLqulb9UbWbd2IdifbiLmwEAclPeA7u3n3Jvv2HWwFsa4TAAnA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 4" width="40" height="40"/>
+ <objectgroup name="Object Layer 5" width="40" height="40">
+  <object gid="7" x="878" y="842"/>
+  <object gid="7" x="450" y="862"/>
+  <object gid="7" x="465" y="2079"/>
+  <object gid="7" x="281" y="1471"/>
+  <object gid="7" x="1928" y="1317"/>
+  <object gid="7" x="1846" y="179"/>
+  <object gid="7" x="725" y="245"/>
+  <object gid="7" x="187" y="2329"/>
+  <object gid="7" x="951" y="1942"/>
+  <object gid="7" x="1088" y="1935"/>
+  <object gid="7" x="1889" y="1965"/>
+  <object gid="7" x="2118" y="2071"/>
+  <object gid="7" x="1682" y="826"/>
+  <object gid="7" x="1006" y="1424"/>
+  <object gid="7" x="1198" y="1406"/>
+  <object gid="7" x="1017" y="1671"/>
+  <object gid="7" x="1120" y="407"/>
+  <object gid="7" x="1148" y="524"/>
+ </objectgroup>
+</map>

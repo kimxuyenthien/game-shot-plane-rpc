@@ -1,0 +1,61 @@
+
+texture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ally
+  rotate: false
+  xy: 128, 32
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 200, 32
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+a368
+  rotate: false
+  xy: 272, 70
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+explo4
+  rotate: false
+  xy: 332, 70
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+explo3
+  rotate: false
+  xy: 392, 76
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+explo1
+  rotate: false
+  xy: 128, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explo2
+  rotate: false
+  xy: 446, 88
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

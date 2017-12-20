@@ -1,0 +1,33 @@
+
+notation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b2
+  rotate: false
+  xy: 1, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 129, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 257, 31
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 355, 31
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
